@@ -1,0 +1,17 @@
+.carousel-item img {
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+}
+
+.carousel-caption {
+    top: 50%;
+    left: 0%;
+    right: 0%;
+    bottom: 0%;
+    transform: translateY(-25%);
+}
+
+.carousel-caption p {
+    margin: 30px 0;
+}
